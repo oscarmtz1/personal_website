@@ -4,10 +4,9 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>Welcome to my website! :D</h1>
-        <p>My name is Oscar Martinez. This is my personal website where I'll be putting stuff.</p>
+        <h1></h1>
+        <p></p>
         <a href="blog.html">Blog</a>
         <a href="https://www.linkedin.com/in/oscar-martinez-6592ba203/">LinkedIn</a>
-        <a href="http://box5827.temp.domains/~oscaram1/">Legacy Website!</a>
     </body>
 </html>
