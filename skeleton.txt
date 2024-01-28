@@ -6,7 +6,8 @@
     <body>
         <h1></h1>
         <p></p>
-        <a href="blog.html">Blog</a>
+        <a href="index.html">Home</a>
+        <a href="pages/blog.html">Blog</a>
         <a href="https://www.linkedin.com/in/oscar-martinez-6592ba203/">LinkedIn</a>
     </body>
 </html>
