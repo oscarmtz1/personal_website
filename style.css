@@ -1,6 +1,18 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 p {
     text-align: center;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family: 'Roboto';
+    font-size: 20px;
 }
 h1 {
     text-align: center;
+    font-family: 'Roboto';
 }
